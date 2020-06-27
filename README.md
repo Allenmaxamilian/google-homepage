@@ -1,0 +1,1 @@
+This is the README.md to Odin's mini google homepage project. The purpose of the project is to demonstrate git/github fluency and basic css and html code.
